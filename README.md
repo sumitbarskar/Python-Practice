@@ -166,3 +166,6 @@ Convert a tuple into a list, modify its elements, and convert it back
 
 ## Day 55
 Learned set operations: adding, removing, and checking elements.
+
+## Day 56
+Learned set operations: Union, Intersection, and Difference.
