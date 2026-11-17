@@ -169,3 +169,6 @@ Learned set operations: adding, removing, and checking elements.
 
 ## Day 56
 Learned set operations: Union, Intersection, and Difference.
+
+## Day 57
+Learned symmetric difference in Python sets to find non-common elements.
