@@ -172,3 +172,6 @@ Learned set operations: Union, Intersection, and Difference.
 
 ## Day 57
 Learned symmetric difference in Python sets to find non-common elements.
+
+## Day 58
+Learned Python dictionary basics: creating, accessing, updating, and adding key-value pairs.
